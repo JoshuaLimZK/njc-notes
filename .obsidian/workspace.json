@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "ff4de5062142cd47",
+    "type": "split",
+    "children": [
+      {
+        "id": "0956e6bc865a0d56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dced87eea86f0ccb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63da1dba2f3f673e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e850ee95c8f5b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e46dc94737be6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02ccd2eaef75ad0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a76b8662f535993f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "ca44cc3d7c0d5beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c244be04f82696",
+        "type": "tabs",
+        "dimension": 33.9,
+        "children": [
+          {
+            "id": "efd5a3308117162f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "26fc9e3a75d6bb39",
+        "type": "tabs",
+        "dimension": 66.1,
+        "children": [
+          {
+            "id": "97de2e6810e4274b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b97bf720a4f06a53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d6c2a94dceaac55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "614e65b05df2a106",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": true,
+      "omnisearch:Omnisearch": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": true,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "templater-obsidian:Templater": true,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "dced87eea86f0ccb",
+  "lastOpenFiles": [
+    "2023-08-01 Economics Tutorial.md",
+    "2023/08-August/2023-08-01.md",
+    "Home.md",
+    "2023/08-August",
+    "2023/07-July/2023-07-31.md",
+    "Other GP homework for 2023-07-31.md",
+    "2023-07-31 GP Tutorial.md",
+    "Answering Qualitative Questions.md",
+    "GP homework for 2023-07-31.md",
+    "Templates/daily note.md",
+    "2023/07-July/2023-07-28.md",
+    "2023-07-28 Physics Tutorial.md",
+    "2023-07-12 Economics Lecture.md",
+    "2023-07-19 Economics Lecture.md",
+    "2023-07-25 Economics Lecture.md",
+    "2023-07-26 Economics Lecture.md",
+    "Non-excludability in consumption.md",
+    "Non-rivalry in consumption.md",
+    "2023/07-July/2023-07-26.md",
+    "2023/07-July/2023-07-25.md",
+    "2023-07-17 GP Tutorial.md",
+    "2023-07-12 GP Tutorial.md",
+    "2023-07-24 GP Tutorial.md",
+    "2023/07-July/2023-07-24.md",
+    "PW Sources For my sections.md",
+    "GP ST 2 Essay Planning.md",
+    "2023/07-July/2023-07-19.md",
+    "Budget Project.canvas",
+    "2023/07-July",
+    "2023",
+    "2023/Untitled.canvas",
+    "Attachments",
+    "Templates"
+  ]
+}

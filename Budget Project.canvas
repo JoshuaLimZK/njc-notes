@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"type":"text","text":"iOS webapp","id":"7644344558aa5a2f","x":-460,"y":-100,"width":250,"height":60},
+		{"type":"text","text":"Google Sheets","id":"440f01c1f1b0d760","x":160,"y":-360,"width":250,"height":60},
+		{"id":"a80ed2eae3e5ad67","x":-640,"y":140,"width":250,"height":60,"type":"text","text":"Svelte"},
+		{"id":"38f5556b64db9f91","x":-460,"y":260,"width":250,"height":60,"type":"text","text":"Ionic"}
+	],
+	"edges":[
+		{"id":"11929f42b3fac4c7","fromNode":"7644344558aa5a2f","fromSide":"right","toNode":"440f01c1f1b0d760","toSide":"left","label":"Add Income/Subtract Expenses"},
+		{"id":"9d704771c07b9a19","fromNode":"7644344558aa5a2f","fromSide":"bottom","toNode":"a80ed2eae3e5ad67","toSide":"top"},
+		{"id":"42709f456ba7ed7b","fromNode":"7644344558aa5a2f","fromSide":"bottom","toNode":"38f5556b64db9f91","toSide":"top"}
+	]
+}
