@@ -1,0 +1,22 @@
+{
+  "minimal-advanced@@cursor": "default",
+  "minimal-style@@checkbox-shape": "checkbox-square",
+  "minimal-style@@window-title-off": false,
+  "minimal-style@@tabs-style": "tabs-plain-square",
+  "minimal-advanced@@styled-scrollbars": true,
+  "sanctum@@dark-mode-contrast-mode": "sanctum-default-dark",
+  "sanctum@@color-accent-rgb-d": "83, 112, 159",
+  "sanctum@@sticky-view-actions": false,
+  "minimal-style@@h6-font": "Georgia",
+  "minimal-style@@h1-size": "1.5em",
+  "minimal-style@@h2-size": "1.3em",
+  "minimal-style@@h3-size": "1.2em",
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h2-l": true,
+  "minimal-style@@h3-l": false,
+  "minimal-style@@minimal-strike-lists": true,
+  "minimal-style@@h1-color@@dark": "#FF7B7B",
+  "minimal-style@@h2-color@@dark": "#FFA86E",
+  "minimal-style@@h3-color@@dark": "#FFEE89",
+  "minimal-style@@h4-color@@dark": "#54EA5C"
+}

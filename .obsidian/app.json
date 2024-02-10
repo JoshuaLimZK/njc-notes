@@ -1,0 +1,16 @@
+{
+  "vimMode": false,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "/Attachments",
+  "showFrontmatter": false,
+  "showInlineTitle": false,
+  "smartIndentList": true,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}

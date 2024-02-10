@@ -1,0 +1,232 @@
+{
+  "main": {
+    "id": "ff4de5062142cd47",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b0bfa301113010f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e086ab074ab59dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Subject Notes/Physics/02 Kinematics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63da1dba2f3f673e",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e850ee95c8f5b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f8e46dc94737be6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "02ccd2eaef75ad0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#computing",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a76b8662f535993f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233.5
+  },
+  "right": {
+    "id": "ca44cc3d7c0d5beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c244be04f82696",
+        "type": "tabs",
+        "dimension": 30.044444444444444,
+        "children": [
+          {
+            "id": "efd5a3308117162f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "960cfd1f6d40ce61",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "26fc9e3a75d6bb39",
+        "type": "tabs",
+        "dimension": 69.95555555555556,
+        "children": [
+          {
+            "id": "97de2e6810e4274b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Subject Notes/Physics/02 Kinematics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "b97bf720a4f06a53",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Subject Notes/Physics/02 Kinematics.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d6c2a94dceaac55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "614e65b05df2a106",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Subject Notes/Physics/02 Kinematics.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": true,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "e086ab074ab59dcc",
+  "lastOpenFiles": [
+    "2023/07-July/2023-07-31.md",
+    "Subject Notes/Physics/02 Kinematics.md",
+    "Subject Notes/Untitled",
+    "Subject Notes/Computing",
+    "Subject Notes/Economics",
+    "Subject Notes/Physics",
+    "Subject Notes",
+    "2023/07-July/2023-07-28.md",
+    "2023/07-July/2023-07-25.md",
+    "2023/07-July/2023-07-19.md",
+    "2023/07-July/2023-07-11.md",
+    "Chapter 5 Intro to Macro.md",
+    "Home.md",
+    "Arts.md",
+    "Summary.md",
+    "GP RVHS 2020 P2.md",
+    "Chapter 8 Inflation.md",
+    "Chapter 7 Economic Growth.md",
+    "Chapter 6 Aggregate Demand & Supply.md",
+    "Attachments/IMG_1823.jpeg",
+    "Attachments/Pasted image 20240108095643.png",
+    "Attachments/Pasted image 20240108100956.png",
+    "Attachments/Pasted image 20240129095452.png",
+    "2023-08-28 GP Tutorial.md",
+    "2023-08-14 GP Tutorial.md",
+    "Physics.md",
+    "Circular Motion.md",
+    "EDOS.md",
+    "Econs Chapter 1.md",
+    "Econs Chapter 4.md",
+    "EEOS.md",
+    "IDOS.md",
+    "IEOS.md",
+    "2023/08-August/2023-08-03.md",
+    "01 Measurements.md",
+    "Attachments/field-record-value.png",
+    "2023/09-September",
+    "Attachments/Pasted image 20230916140231.png",
+    "Budget Project.canvas",
+    "Attachments/Pasted image 20230904161036.png",
+    "Attachments/Pasted image 20230904155427.png",
+    "Excalidraw",
+    "Attachments/Pasted image 20230818165853.png",
+    "Attachments/Pasted image 20230818165839.png",
+    "2023/08-August",
+    "2023/07-July",
+    "2023",
+    "2023/Untitled.canvas"
+  ]
+}
